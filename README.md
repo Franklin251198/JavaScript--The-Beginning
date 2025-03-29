@@ -1,2 +1,2 @@
-# JavaScript--The-Beginning
+# JavaScript
 JavaScript -The Beginning
